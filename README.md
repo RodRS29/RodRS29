@@ -17,6 +17,6 @@
   <a href="https://www.facebook.com/rodrigo.cerentini" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href = "mailto:rodcerentini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/rodrs29/rodrs29/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/RodRS29/RodRS29/blob/output/github-contribution-grid-snake.svg)
  
 </div>
