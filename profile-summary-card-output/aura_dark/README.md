@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/RodRS29/RodRS29/main/profile-summary-card-output/aura_dark/4-productive-time.svg)
+```
+
+    
